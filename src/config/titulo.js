@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Contabilidad y normatividad financiera aplicada a la cartera'
