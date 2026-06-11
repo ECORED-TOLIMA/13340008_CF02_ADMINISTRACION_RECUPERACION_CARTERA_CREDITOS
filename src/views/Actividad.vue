@@ -28,28 +28,33 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto: '¿Cuál es el objetivo principal del TLC Colombia–EE. UU.?',
+          texto:
+            '¿Cuál es el propósito fundamental de la contabilidad en las entidades financieras colombianas?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Eliminar impuestos internos.',
+              texto:
+                'Registrar únicamente los ingresos por intereses generados por la cartera de créditos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Promover el comercio sin reglas.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Facilitar el acceso a mercados internacionales.',
+              texto:
+                'Registrar fielmente todas las transacciones económicas y generar información confiable para la toma de decisiones.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto:
+                'Calcular el monto de los impuestos que debe pagar la entidad al final del período fiscal.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: 'Sustituir la producción nacional.',
+              texto:
+                'Controlar el cumplimiento de los horarios del personal del área de cartera.',
               esCorrecta: false,
             },
           ],
@@ -59,28 +64,32 @@ export default {
         {
           id: 2,
           texto:
-            '¿Cuál de los siguientes es un mecanismo de defensa comercial?',
+            '¿Qué plan contable deben aplicar obligatoriamente las entidades vigiladas por la Superintendencia Financiera de Colombia?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'IVA.',
+              texto:
+                'Las Normas Internacionales de Información Financiera (NIIF) estándar sin ninguna modificación.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Salvaguardias.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Subsidios internos.',
+              texto:
+                'El Plan Único de Cuentas para el sector real definido por la DIAN.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto:
+                'El Plan Único de Cuentas para el Sistema Financiero (PUC), con las instrucciones técnicas de la Superintendencia Financiera.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'TRM.',
+              texto:
+                'El plan contable que libremente defina cada entidad según sus necesidades operativas.',
               esCorrecta: false,
             },
           ],
@@ -89,29 +98,30 @@ export default {
         },
         {
           id: 3,
-          texto: 'El dumping ocurre cuando:',
+          texto:
+            '¿Qué principio contable obliga a las entidades financieras a reconocer las pérdidas potenciales de la cartera mediante provisiones, antes de que se materialicen?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Se exporta con altos aranceles.',
+              texto: 'Principio de realización.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Se vende por encima del precio.',
-              esCorrecta: false,
+              texto: 'Principio de prudencia o conservadurismo.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Se eliminan impuestos.',
+              texto: 'Principio de revelación suficiente.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Se vende por debajo del valor normal.',
-              esCorrecta: true,
+              texto: 'Principio de continuidad del negocio.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -119,30 +129,33 @@ export default {
         },
         {
           id: 4,
-          texto: '¿Qué entidad investiga prácticas antidumping en Colombia?',
+          texto:
+            'En el balance general de una entidad financiera, ¿cómo se presenta el valor neto de la cartera de créditos?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La Dirección de Impuestos y Aduanas Nacionales (DIAN).',
+              texto:
+                'Al valor bruto de todos los créditos otorgados sin ningún descuento.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'El Ministerio de Comercio, Industria y Turismo de Colombia.',
+                'Al saldo bruto de cartera menos la provisión acumulada constituida.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'El Banco de la República de Colombia.',
+              texto:
+                'Al valor de mercado de los créditos según la cotización del sistema financiero.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'El Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA).',
+                'Al valor presente de los flujos futuros esperados descontados a tasa libre de riesgo.',
               esCorrecta: false,
             },
           ],
@@ -151,32 +164,33 @@ export default {
         },
         {
           id: 5,
-          texto: 'Las subvenciones se refieren a:',
+          texto:
+            '¿Qué efecto produce el incremento del gasto por provisiones sobre el estado de resultados de una entidad financiera?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'El apoyo financiero que el Estado otorga a los productores.',
-              esCorrecta: true,
+                'Aumenta la utilidad neta del período al reducir el riesgo de cartera.',
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Los impuestos indirectos aplicados sobre bienes y servicios.',
+                'No tiene ningún efecto sobre el estado de resultados, solo afecta el balance.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Las tarifas aduaneras cobradas en operaciones de importación.',
-              esCorrecta: false,
+                'Reduce directamente la utilidad antes de impuestos del período.',
+              esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Los costos logísticos asociados a una operación de exportación.',
+                'Incrementa los ingresos operacionales por el mayor nivel de protección del activo.',
               esCorrecta: false,
             },
           ],
@@ -185,30 +199,29 @@ export default {
         },
         {
           id: 6,
-          texto: 'El capítulo laboral del TLC se basa en:',
+          texto:
+            '¿Cuál es la modalidad de amortización de crédito en la que la cuota tiene el mismo valor total durante toda la vigencia del crédito?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Las directrices del Fondo Monetario Internacional (FMI).',
+              texto: 'Bullet o pago único al vencimiento.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Las normas de la Organización Mundial del Comercio (OMC).',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto:
-                'Los estándares de la Organización Internacional del Trabajo (OIT).',
+              texto: 'Cuota fija o sistema francés.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto: 'Amortización irregular o flexible.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: 'Los procedimientos de la DIAN para el comercio exterior.',
+              texto: 'Cuota variable o capital fijo.',
               esCorrecta: false,
             },
           ],
@@ -218,30 +231,29 @@ export default {
         {
           id: 7,
           texto:
-            '¿Qué principio impide reducir derechos laborales para atraer inversión?',
+            '¿Qué norma colombiana regula específicamente los créditos hipotecarios para financiación de vivienda y establece condiciones diferenciales para su gestión?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'El principio de legalidad en los procedimientos laborales.',
+              texto: 'Decreto 663 de 1993.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'El principio de igualdad de trato en el empleo.',
-              esCorrecta: false,
+              texto: 'Ley 546 de 1999.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'El principio de transparencia en la normativa laboral.',
+              texto: 'Circular básica contable y financiera de la SFC.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'El principio de no regresión laboral.',
-              esCorrecta: true,
+              texto: 'Ley 1328 de 2009.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -249,28 +261,33 @@ export default {
         },
         {
           id: 8,
-          texto: '¿Qué entidad regula los alimentos en EE. UU.?',
+          texto:
+            '¿Qué es la tasa de usura y qué entidad la certifica en Colombia?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'DIAN.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'FDA.',
+              texto:
+                'Es el límite máximo legal para el cobro de intereses; la certifica trimestralmente la Superintendencia Financiera de Colombia.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto:
+                'Es la tasa de interés promedio del sistema financiero; la certifica mensualmente el DANE.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'ICA.',
+              texto:
+                'Es la tasa de interés mínima que deben cobrar las entidades financieras; la fija el Banco de la República.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OMC.',
+              texto:
+                'Es la tasa de interés que el Banco de la República cobra a los bancos comerciales; la certifica el Ministerio de Hacienda.',
               esCorrecta: false,
             },
           ],
@@ -280,30 +297,31 @@ export default {
         {
           id: 9,
           texto:
-            'El incumplimiento de requisitos sanitarios en EE. UU. puede generar:',
+            '¿Cuál es el documento normativo de la Superintendencia Financiera que regula la clasificación, calificación y provisionamiento de la cartera de créditos?',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'La reducción de los impuestos sobre la mercancía importada.',
-              esCorrecta: false,
+                'La Circular Básica Contable y Financiera (CBCF), especialmente el Capítulo II.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'El cobro de multas leves al exportador colombiano.',
+              texto:
+                'El Estatuto Orgánico del Sistema Financiero (Decreto 663 de 1993).',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'La destrucción total del cargamento en el puerto de entrada.',
-              esCorrecta: true,
+                'La Ley 1328 de 2009 o Estatuto del Consumidor Financiero.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'La asignación de subsidios compensatorios al exportador.',
+              texto: 'La Ley 795 de 2003 sobre ajustes al sistema financiero.',
               esCorrecta: false,
             },
           ],
@@ -312,32 +330,34 @@ export default {
         },
         {
           id: 10,
-          texto: '¿Qué capítulo del APC regula los compromisos ambientales?',
+          texto:
+            '¿Cuáles son los componentes fundamentales que debe tener el Sistema de Administración del Riesgo Crediticio (SARC) según la Superintendencia Financiera de Colombia?',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'El Capítulo 6, sobre medidas sanitarias y fitosanitarias.',
+                'Los reportes mensuales de cartera que se envían a la Superintendencia Financiera.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'El Capítulo 10, sobre inversión y protección de capital.',
-              esCorrecta: false,
+              texto:
+                'Políticas, procesos, modelos de calificación y sistemas de control interno.',
+              esCorrecta: true,
             },
             {
               id: 'c',
               texto:
-                'El Capítulo 17, sobre legislación y compromisos laborales.',
+                'Únicamente los modelos estadísticos de probabilidad de incumplimiento de los deudores.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'El Capítulo 18, sobre compromisos y obligaciones ambientales.',
-              esCorrecta: true,
+                'Solo las políticas de otorgamiento de crédito aprobadas por la junta directiva.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -345,28 +365,29 @@ export default {
         },
         {
           id: 11,
-          texto: 'La clasificación arancelaria de un producto determina:',
+          texto:
+            '¿Cuál es el porcentaje de provisión general que deben constituir las entidades financieras sobre el saldo total bruto de la cartera?',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'El tipo de empresa.',
+              texto: '0.5 % del saldo total bruto de la cartera.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'El arancel y requisitos.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'El transporte.',
+              texto: '3.2 % del saldo total bruto de la cartera.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto: '1 % del saldo total bruto de la cartera.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'El cliente.',
+              texto: '20 % del saldo total bruto de la cartera.',
               esCorrecta: false,
             },
           ],
@@ -376,28 +397,32 @@ export default {
         {
           id: 12,
           texto:
-            '¿Qué entidad administra el Sistema Armonizado de clasificación de mercancías?',
+            '¿Qué ocurre con los intereses causados de un crédito cuando entra en mora avanzada y es reclasificado a categorías de mayor riesgo?',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OMC.',
+              texto:
+                'Se siguen reconociendo como ingresos en el estado de resultados hasta que el crédito sea castigado.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OIT.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'OMA.',
+              texto:
+                'Se contabilizan en cuentas de orden y no se reconocen como ingresos hasta que sean efectivamente pagados.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto:
+                'Se condonan automáticamente como parte del proceso de clasificación de la cartera.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: 'FMI.',
+              texto:
+                'Se transfieren a una cuenta de patrimonio para proteger la solvencia de la entidad.',
               esCorrecta: false,
             },
           ],
@@ -406,28 +431,33 @@ export default {
         },
         {
           id: 13,
-          texto: 'Las zonas francas en Colombia permiten:',
+          texto:
+            '¿Cuál es la función principal de la Superintendencia Financiera de Colombia en relación con la gestión de cartera de las entidades vigiladas?',
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Eliminar exportaciones.',
+              texto:
+                'Otorgar créditos de emergencia a las entidades financieras en dificultades.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Incentivar inversión y exportaciones.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Aumentar aranceles.',
+              texto:
+                'Fijar las tasas de interés activas que deben cobrar los bancos comerciales.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto:
+                'Ejercer la inspección, vigilancia y control de las entidades del sector financiero y emitir las normas técnicas que regulan la gestión de cartera.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Restringir comercio.',
+              texto:
+                'Administrar los recursos del Fondo de Garantías de Instituciones Financieras.',
               esCorrecta: false,
             },
           ],
@@ -437,32 +467,32 @@ export default {
         {
           id: 14,
           texto:
-            'Para acceder a los beneficios del TLC exportando desde una zona franca se deben cumplir:',
+            '¿A través de qué mecanismo el Banco de la República influye sobre las condiciones de la cartera de créditos de las entidades financieras?',
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Las reglas de origen establecidas en el Capítulo 4 del APC.',
-              esCorrecta: true,
+                'Supervisa directamente la calidad de la cartera de cada entidad financiera vigilada.',
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'El pago del impuesto al valor agregado sobre los insumos utilizados.',
+                'Otorga créditos de cartera comercial a las empresas del sector real de la economía.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'La tasa representativa del mercado vigente en la operación.',
-              esCorrecta: false,
+                'A través de su tasa de intervención, influye sobre las tasas activas del mercado y el costo del crédito para los deudores.',
+              esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Los requisitos de subsidios para operadores en zona franca.',
+                'Establece los criterios de provisionamiento que deben aplicar las entidades financieras.',
               esCorrecta: false,
             },
           ],
@@ -471,32 +501,33 @@ export default {
         },
         {
           id: 15,
-          texto: 'La tasa representativa del mercado (TRM) es:',
+          texto:
+            '¿Cuál es la función principal del Fondo de Garantías de Instituciones Financieras (FOGAFIN) en el sistema financiero colombiano?',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Un impuesto aplicado a las operaciones de importación en Colombia.',
+                'Supervisar directamente las prácticas de cobranza de las entidades vigiladas.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'El precio promedio del dólar en el mercado interbancario colombiano.',
+                'Proteger los ahorros del público depositados en las instituciones financieras mediante el Seguro de Depósitos.',
               esCorrecta: true,
             },
             {
               id: 'c',
               texto:
-                'Un subsidio otorgado por el Estado a los exportadores colombianos.',
+                'Fijar los límites máximos para el cobro de intereses en las operaciones de crédito.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Un arancel especial definido en el marco del APC Colombia–EE. UU.',
+                'Representar los intereses gremiales de los bancos comerciales ante el Gobierno.',
               esCorrecta: false,
             },
           ],
@@ -505,28 +536,33 @@ export default {
         },
         {
           id: 16,
-          texto: '¿Quién regula el régimen cambiario en Colombia?',
+          texto:
+            '¿Qué debe hacer el gestor de cartera al detectar que los intereses de mora cobrados a un deudor superan la tasa de usura vigente?',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Banco de la República.',
-              esCorrecta: true,
+              texto:
+                'Continuar el cobro, ya que el exceso de intereses es un beneficio legítimo de la entidad.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'DIAN.',
+              texto:
+                'Informar al deudor que el exceso será capitalizado en el siguiente período.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'INVIMA.',
-              esCorrecta: false,
+              texto:
+                'Reversar el cobro indebido, ajustar el estado de cuenta del deudor y reportar el error internamente.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'ICA.',
+              texto:
+                'Escalar el caso al área jurídica para que defienda la posición de la entidad.',
               esCorrecta: false,
             },
           ],
@@ -535,31 +571,29 @@ export default {
         },
         {
           id: 17,
-          texto: 'Un forward de divisas es:',
+          texto:
+            'Según la Ley 1328 de 2009, ¿cuál es el plazo máximo que tiene la entidad financiera para responder una queja del consumidor financiero radicada directamente ante ella?',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Un impuesto aplicado al comercio de divisas en Colombia.',
+              texto: 'Cinco días hábiles.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Un documento aduanero exigido en la declaración de exportación.',
+              texto: 'Treinta días calendario.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'Un instrumento de cobertura que fija el tipo de cambio futuro.',
+              texto: 'Quince días hábiles.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto:
-                'Un medio de transporte utilizado en el comercio internacional.',
+              texto: 'Ocho días hábiles.',
               esCorrecta: false,
             },
           ],
@@ -569,29 +603,33 @@ export default {
         {
           id: 18,
           texto:
-            '¿Cuál es el medio de pago más seguro para el exportador colombiano?',
+            '¿Qué implica, en términos de calificación de riesgo, la reestructuración de un crédito en mora durante los primeros meses de cumplimiento de las nuevas condiciones?',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Cuenta abierta.',
+              texto:
+                'La obligación reestructurada mejora automáticamente a categoría A desde la firma del acuerdo.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Transferencia.',
-              esCorrecta: false,
+              texto:
+                'La obligación reestructurada mantiene la calificación de riesgo que tenía en el momento de la reestructuración hasta que el deudor demuestre comportamiento de pago sostenido.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Efectivo.',
+              texto:
+                'La obligación reestructurada pasa automáticamente a categoría E hasta que se complete el plazo pactado.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Carta de crédito.',
-              esCorrecta: true,
+              texto:
+                'La calificación se suspende durante el período de gracia y se recalcula al vencimiento del crédito.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -600,28 +638,32 @@ export default {
         {
           id: 19,
           texto:
-            'El documento que certifica el origen del producto en el marco del APC es:',
+            'En el caso de una queja de un consumidor financiero que alega cobros indebidos, ¿cuál es el primer paso que debe seguir el gestor de cartera?',
           imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Factura.',
+              texto:
+                'Informar al deudor que el cobro es correcto y exigir el pago del saldo pendiente.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'BL.',
+              texto:
+                'Escalar inmediatamente la queja a la Superintendencia Financiera sin revisar la información.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Certificado de origen.',
+              texto:
+                'Consultar el historial de la obligación en el sistema para verificar si el cobro fue correcto.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Packing list.',
+              texto:
+                'Enviar al deudor a la Defensoría del Consumidor Financiero sin atender la queja internamente.',
               esCorrecta: false,
             },
           ],
@@ -630,28 +672,33 @@ export default {
         },
         {
           id: 20,
-          texto: '¿Qué entidad controla el cumplimiento aduanero en Colombia?',
+          texto:
+            '¿Qué registro contable se realiza cuando una entidad financiera decide castigar (dar de baja) una obligación clasificada en categoría E con provisión del 100 %?',
           imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La Organización Internacional del Trabajo (OIT).',
+              texto:
+                'Se debita la cartera y se acredita el gasto por provisión del período.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La Dirección de Impuestos y Aduanas Nacionales (DIAN).',
+              texto:
+                'Se debita la provisión acumulada y se acredita la cartera, eliminando la obligación del balance general.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'La Administración de Alimentos y Medicamentos (FDA).',
+              texto:
+                'Se debita el patrimonio y se acredita la cartera como reconocimiento de la pérdida definitiva.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'La Organización Mundial del Comercio (OMC).',
+              texto:
+                'Se debita el gasto por cartera castigada y se acredita la provisión acumulada del período.',
               esCorrecta: false,
             },
           ],

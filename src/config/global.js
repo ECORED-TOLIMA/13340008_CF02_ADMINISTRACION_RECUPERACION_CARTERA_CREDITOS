@@ -36,32 +36,32 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Administración básica de cartera',
+        titulo: 'Contabilidad básica del sistema financiero',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Administración en el sector financiero',
+            titulo: 'Propósito de la contabilidad en las entidades financieras',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Entidades de crédito en Colombia',
+            titulo: 'Principios de contabilidad del sector financiero',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Funciones administrativas de cartera',
+            titulo: 'Estados financieros de una entidad de crédito',
             hash: 't_1_3',
           },
           {
             numero: '1.4',
-            titulo: 'Rotación de cartera',
+            titulo: 'La mora y su impacto en los ingresos financieros',
             hash: 't_1_4',
           },
           {
             numero: '1.5',
-            titulo: 'Clasificación de cartera',
+            titulo: 'El sistema de provisiones contables',
             hash: 't_1_5',
           },
         ],
@@ -69,32 +69,32 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Código de ética y política institucional de cartera',
+        titulo: 'Planes de pago y modalidades de crédito',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Principios éticos de cartera',
+            titulo: 'Concepto y función de los planes de pago',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Política institucional de cartera',
+            titulo: 'Modalidades de amortización de créditos',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Responsabilidades del gestor',
+            titulo: 'Tipos de crédito y sus características',
             hash: 't_2_3',
           },
           {
             numero: '2.4',
-            titulo: 'Atención al deudor',
+            titulo: 'Tasas de interés y límites legales',
             hash: 't_2_4',
           },
           {
             numero: '2.5',
-            titulo: 'Protección del consumidor financiero',
+            titulo: 'Reestructuración y refinanciación de créditos',
             hash: 't_2_5',
           },
         ],
@@ -102,32 +102,32 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Planes de recuperación de cartera',
+        titulo: 'Marco normativo del crédito en Colombia',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Estructura del plan',
+            titulo: 'Estatuto orgánico del sistema financiero',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Diagnóstico de la cartera',
+            titulo: 'Circular Básica Contable y Financiera (CBCF)',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Etapas del plan',
+            titulo: 'Sistema de Administración del Riesgo Crediticio (SARC)',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Seguimiento y control',
+            titulo: 'Regulación de tasas de interés y usura',
             hash: 't_3_4',
           },
           {
             numero: '3.5',
-            titulo: 'Herramientas tecnológicas para la gestión de cartera',
+            titulo: 'Protección al consumidor financiero',
             hash: 't_3_5',
           },
         ],
@@ -135,50 +135,55 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Servicio al cliente deudor',
+        titulo: 'Entidades del sistema financiero colombiano',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Servicio en el sector financiero',
+            titulo: 'La Superintendencia Financiera de Colombia',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
-            titulo: 'Fidelización del cliente deudor',
+            titulo: 'El Banco de la República y la cartera',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
-            titulo: 'Comunicación en cobranza',
+            titulo: 'Fondo de Garantías de Instituciones Financieras (FOGAFIN)',
             hash: 't_4_3',
           },
           {
             numero: '4.4',
-            titulo: 'Manejo de situaciones difíciles',
+            titulo: 'La UGPP y su rol en la fiscalización del sector',
             hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Gremios del sector: Asobancaria y Asomicrofinanzas',
+            hash: 't_4_5',
           },
         ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Seguimiento, negociación y cobranza',
+        titulo: 'Aplicación normativa en la gestión de cartera',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Visitas de seguimiento',
+            titulo: 'Cálculo de provisiones por categoría de riesgo',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Técnicas de negociación en cobranza',
+            titulo: 'Reporte e informes de cumplimiento normativo',
             hash: 't_5_2',
           },
           {
             numero: '5.3',
-            titulo: 'Informes de cartera',
+            titulo: 'Gestión de quejas de consumidores financieros',
             hash: 't_5_3',
           },
         ],
@@ -186,7 +191,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Casos prácticos de aplicación en cartera',
+        titulo: 'Casos prácticos',
         desarrolloContenidos: true,
         subMenu: [
           {

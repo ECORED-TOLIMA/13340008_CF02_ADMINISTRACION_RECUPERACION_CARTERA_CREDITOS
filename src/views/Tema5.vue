@@ -86,27 +86,27 @@
 
               p #[b Ejemplo:] el gestor revisa el sistema de cartera y encuentra que un crédito comercial de $50.000.000 tiene 75 días de mora, lo que corresponde a categoría C. El porcentaje de provisión individual requerido para esta categoría es del 20 %.
     
-          .row(numero="2" titulo="Análisis de viabilidad")
+          .row(numero="2" titulo="Cálculo de la provisión requerida")
             .col-md-12.mb-4.mb-md-0
-              p Cálculo de la provisión requerida: se aplica el porcentaje de provisión correspondiente a la categoría sobre el saldo bruto de la obligación. La provisión requerida es el monto que la entidad debe tener reservado como respaldo ante la pérdida potencial de ese crédito.
+              p Se aplica el porcentaje de provisión correspondiente a la categoría sobre el saldo bruto de la obligación. La provisión requerida es el monto que la entidad debe tener reservado como respaldo ante la pérdida potencial de ese crédito.
               p #[b Ejemplo:] para el crédito del ejemplo anterior: $50.000.000 × 20 % = $10.000.000 de provisión individual requerida. Si la entidad tiene constituida una provisión de $500.000 (1 % de categoría A anterior), el ajuste necesario es de $9.500.000 adicionales.
 
     
-          .row(numero="3" titulo="Diseño de las nuevas condiciones")
+          .row(numero="3" titulo="Comparación con la provisión constituida")
             .col-md-12.mb-4.mb-md-0
-              p Comparación con la provisión constituida: el resultado del cálculo se compara con la provisión que la entidad tiene actualmente registrada en su contabilidad para esa obligación. Si la provisión constituida es menor a la requerida, debe constituirse la diferencia; si es mayor, puede liberarse el exceso.
+              p El resultado del cálculo se compara con la provisión que la entidad tiene actualmente registrada en su contabilidad para esa obligación. Si la provisión constituida es menor a la requerida, debe constituirse la diferencia; si es mayor, puede liberarse el exceso.
               p #[b Ejemplo:] si una obligación requiere una provisión de $10.000.000 y la entidad solo tiene registrada una provisión de $7.000.000, debe constituir $3.000.000 adicionales para cubrir el nivel de riesgo correspondiente.
 
 
-          .row(numero="4" titulo="Registro contable")
+          .row(numero="4" titulo="Registro contable del ajuste: ")
             .col-md-12.mb-4.mb-md-0
-              p Registro contable del ajuste: el ajuste de provisiones se registra como gasto en el estado de resultados (débito a la cuenta de gasto por provisiones) y como incremento de la provisión acumulada en el balance general (crédito a la cuenta de provisión acumulada de cartera).
+              p El ajuste de provisiones se registra como gasto en el estado de resultados (débito a la cuenta de gasto por provisiones) y como incremento de la provisión acumulada en el balance general (crédito a la cuenta de provisión acumulada de cartera).
               p #[b Ejemplo:] si la entidad debe aumentar la provisión en $3.000.000, registra ese valor como gasto por provisiones y lo suma a la provisión acumulada de cartera, para que los estados financieros reflejen el riesgo real de la obligación.
 
 
-          .row(numero="5" titulo="Seguimiento posterior")
+          .row(numero="5" titulo="Periodicidad del cálculo")
             .col-md-12.mb-4.mb-md-0
-              p Periodicidad del cálculo: el proceso debe realizarse mensualmente para la mayoría de las entidades, conforme a las instrucciones de la SFC, y los resultados deben ser revisados por el área contable antes de su registro definitivo en los estados financieros del período.
+              p El proceso debe realizarse mensualmente para la mayoría de las entidades, conforme a las instrucciones de la SFC, y los resultados deben ser revisados por el área contable antes de su registro definitivo en los estados financieros del período.
               p #[b Ejemplo:] al cierre de cada mes, el área de cartera actualiza los días de mora y la categoría de riesgo de cada obligación. Luego, el área contable revisa los valores calculados y registra los ajustes de provisión que correspondan.
 
                
@@ -301,19 +301,19 @@
    
            //-2da pestaña  
            .row(titulo="Aplicación incorrecta de pagos")
-             p Aplicación incorrecta de pagos: cuando el deudor alega que un pago no fue aplicado correctamente a su obligación, el área de cartera debe verificar el registro del pago en el sistema, el estado de cuenta antes y después del pago y la aplicación del valor según las reglas del contrato.
+             p Cuando el deudor alega que un pago no fue aplicado correctamente a su obligación, el área de cartera debe verificar el registro del pago en el sistema, el estado de cuenta antes y después del pago y la aplicación del valor según las reglas del contrato.
               p #[b Ejemplo:] el señor Ramírez informa que realizó un pago de $850.000, pero su obligación continúa apareciendo en mora. El área de cartera revisa el comprobante, verifica la fecha de aplicación y encuentra que el pago fue registrado en otra obligación del mismo cliente. La entidad corrige la imputación y actualiza el estado de cuenta.
 
            
            //-3ra pestaña
            .row(titulo="Prácticas de cobranza indebidas")
-             p Prácticas de cobranza indebidas: el consumidor puede quejarse de llamadas en horarios no autorizados, contacto a terceros, lenguaje amenazante o cualquier otra práctica que considere contraria a sus derechos. El área de cartera debe revisar los registros de gestión y determinar si la queja tiene fundamento.
+             p El consumidor puede quejarse de llamadas en horarios no autorizados, contacto a terceros, lenguaje amenazante o cualquier otra práctica que considere contraria a sus derechos. El área de cartera debe revisar los registros de gestión y determinar si la queja tiene fundamento.
               p #[b Ejemplo:] una consumidora manifiesta que recibió llamadas de cobranza en horas de la noche y que también contactaron a un familiar que no era codeudor. El área de cartera revisa los registros de llamadas, confirma la situación y ordena suspender ese tipo de contacto, además de reforzar las instrucciones al equipo de cobranza.
 
    
            //-4ra pestaña
            .row(titulo="Reporte indebido a centrales de riesgo")
-             p Reporte indebido a centrales de riesgo: el deudor puede reclamar que fue reportado incorrectamente o que la información no fue actualizada luego de un pago. El área debe verificar la exactitud del reporte y corregirlo si se constata algún error.
+             p El deudor puede reclamar que fue reportado incorrectamente o que la información no fue actualizada luego de un pago. El área debe verificar la exactitud del reporte y corregirlo si se constata algún error.
               p #[b Ejemplo:] la señora López solicita revisar su reporte porque canceló la obligación hace un mes y aún aparece como deudora en mora. El área de cartera verifica el pago total, confirma que la actualización no fue enviada oportunamente y solicita la corrección ante la central de riesgo correspondiente.
 
     p.mt-4 El procedimiento general para atender una queja incluye recibirla formalmente, registrarla en el sistema de seguimiento de quejas, investigar los hechos con base en la documentación disponible, emitir una respuesta fundamentada dentro del plazo establecido por la normativa y, si procede, aplicar las correcciones necesarias. 

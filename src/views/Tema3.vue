@@ -253,17 +253,17 @@
     
             //-2da pestaña  
             .row(titulo="Procesos de administración del riesgo crediticio")
-              p Procesos de administración del riesgo crediticio: comprende los procedimientos documentados para cada etapa del ciclo de crédito, desde la solicitud hasta la recuperación, incluyendo los mecanismos de control en cada fase. El gestor de cartera debe conocer y aplicar los procedimientos de seguimiento y recuperación establecidos en este componente.
+              p Comprende los procedimientos documentados para cada etapa del ciclo de crédito, desde la solicitud hasta la recuperación, incluyendo los mecanismos de control en cada fase. El gestor de cartera debe conocer y aplicar los procedimientos de seguimiento y recuperación establecidos en este componente.
 
               p #[b Ejemplo:] la entidad tiene definido en sus procesos del SARC que los créditos con mora entre 30 y 60 días reciben gestión telefónica; entre 61 y 90 días, gestión de campo; y con mora superior a 90 días, remisión al área jurídica. El gestor debe seguir este procedimiento en cada caso de su portafolio.
             
             //-3ra pestaña
             .row(titulo="Modelos internos de referencia y sistemas de provisiones")
-              p Modelos internos de referencia y sistemas de provisiones: son los instrumentos técnicos mediante los cuales la entidad mide el riesgo de cada obligación y calcula las provisiones correspondientes, conforme a los criterios de la CBCF. Estos modelos pueden ser los modelos de referencia de la SFC o modelos propios aprobados por el regulador.
+              p Son los instrumentos técnicos mediante los cuales la entidad mide el riesgo de cada obligación y calcula las provisiones correspondientes, conforme a los criterios de la CBCF. Estos modelos pueden ser los modelos de referencia de la SFC o modelos propios aprobados por el regulador.
     
             //-4ra pestaña
             .row(titulo="Sistemas de control interno")
-              p Sistemas de control interno: incluye los mecanismos de seguimiento, auditoría y reportes internos que permiten verificar el cumplimiento de las políticas y procedimientos del SARC, detectar y corregir desviaciones oportunamente y garantizar la calidad de la información que se reporta al regulador.
+              p Incluye los mecanismos de seguimiento, auditoría y reportes internos que permiten verificar el cumplimiento de las políticas y procedimientos del SARC, detectar y corregir desviaciones oportunamente y garantizar la calidad de la información que se reporta al regulador.
 
 
     p.mt-4 La correcta implementación de los cuatro componentes del SARC no solo permite a la entidad cumplir sus obligaciones regulatorias, sino que también fortalece la calidad de la gestión de cartera al institucionalizar criterios técnicos para cada etapa del proceso crediticio. Un gestor que conoce el SARC de su entidad actúa con mayor precisión, porque sabe qué se espera de él en cada situación.
@@ -435,10 +435,7 @@
             p Asimismo, la gestión de cartera debe desarrollarse con respeto por la intimidad, la dignidad y la privacidad del consumidor financiero. Por esta razón, el gestor no solo debe buscar la recuperación de las obligaciones a su cargo: también debe garantizar que cada acción de cobranza cumpla los estándares de trato que la ley exige.
 
 
-    p.mt-4 La Ley 1328 de 2009, conocida como la Reforma Financiera o el Estatuto del Consumidor Financiero, establece los principios y derechos de los usuarios del sistema financiero y las obligaciones que las entidades vigiladas deben cumplir en su relación con ellos. Para el gestor de cartera, esta norma define el marco de actuación durante todo el proceso de cobranza, desde el primer contacto hasta el cierre de la gestión.
-
-    p Asimismo, la gestión de cartera debe desarrollarse con respeto por la intimidad, la dignidad y la privacidad del consumidor financiero. Por esta razón, el gestor no solo debe buscar la recuperación de las obligaciones a su cargo: también debe garantizar que cada acción de cobranza cumpla los estándares de trato que la ley exige.
-
+    p.mt-4 Los principios y derechos del consumidor financiero que con mayor frecuencia inciden en la gestión de cartera son los siguientes:
 
     .row.justify-content-center 
       .col-lg-6
@@ -449,19 +446,19 @@
     
           .row(numero="2" titulo="Derecho a recibir información clara")
             .col-md-12.mb-4.mb-md-0
-              p  Derecho a recibir información clara: el consumidor tiene derecho a conocer de manera completa y comprensible el estado de su obligación: saldo pendiente, intereses causados, costos y consecuencias del incumplimiento. El gestor debe proporcionar esta información en lenguaje accesible, sin omitir datos relevantes.
+              p  El consumidor tiene derecho a conocer de manera completa y comprensible el estado de su obligación: saldo pendiente, intereses causados, costos y consecuencias del incumplimiento. El gestor debe proporcionar esta información en lenguaje accesible, sin omitir datos relevantes.
     
           .row(numero="3" titulo="Derecho a un trato digno")
             .col-md-12.mb-4.mb-md-0
-              p Derecho a un trato digno: está prohibido el uso de amenazas, presiones indebidas, expresiones humillantes o cualquier práctica que afecte la dignidad del deudor. Este principio opera en todos los canales de contacto y en todos los horarios, sin excepción.
+              p Está prohibido el uso de amenazas, presiones indebidas, expresiones humillantes o cualquier práctica que afecte la dignidad del deudor. Este principio opera en todos los canales de contacto y en todos los horarios, sin excepción.
 
           .row(numero="4" titulo="Derecho a la privacidad")
             .col-md-12.mb-4.mb-md-0
-              p Derecho a la privacidad: la información financiera del consumidor solo puede utilizarse para los fines de la gestión de cobranza. Está prohibido divulgar la situación de mora a personas no autorizadas, incluidos familiares, vecinos o compañeros de trabajo que no tengan relación directa con la obligación.
+              p La información financiera del consumidor solo puede utilizarse para los fines de la gestión de cobranza. Está prohibido divulgar la situación de mora a personas no autorizadas, incluidos familiares, vecinos o compañeros de trabajo que no tengan relación directa con la obligación.
             
           .row(numero="5" titulo="Cumplimiento de horarios y canales autorizados")
             .col-md-12.mb-4.mb-md-0
-              p Cumplimiento de horarios y canales autorizados: la Ley 1328 de 2009 y la Ley 2300 de 2023 establecen restricciones específicas sobre los horarios y los canales por los que puede realizarse la gestión de cobranza. El incumplimiento de estas restricciones constituye una infracción regulatoria con consecuencias para la entidad.
+              p La Ley 1328 de 2009 y la Ley 2300 de 2023 establecen restricciones específicas sobre los horarios y los canales por los que puede realizarse la gestión de cobranza. El incumplimiento de estas restricciones constituye una infracción regulatoria con consecuencias para la entidad.
     
       .col-lg-4.d-none.d-lg-block
         figure(data-aos="fade-up")

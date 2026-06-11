@@ -20,7 +20,7 @@
 
     .row.align-items-center.mt-4.justify-content-center
       .col-lg-10
-        .row.p-3.bg-16.bg-r8.align-items-end
+        .row.p-3.bg-8.bg-r8.align-items-end
           .col-12
 
             ul.lista-ul--color
@@ -83,25 +83,25 @@
     
             //-2da pestaña  
             .row(titulo="Regulación técnica")
-              p Regulación técnica: emite las circulares y resoluciones que definen los criterios de clasificación de cartera, los porcentajes de provisión y las normas de cobranza que las entidades vigiladas deben aplicar. Cada actualización de la CBCF puede modificar los procedimientos que el gestor aplica en su trabajo diario.
+              p Emite las circulares y resoluciones que definen los criterios de clasificación de cartera, los porcentajes de provisión y las normas de cobranza que las entidades vigiladas deben aplicar. Cada actualización de la CBCF puede modificar los procedimientos que el gestor aplica en su trabajo diario.
               p #[b Ejemplo:] si la SFC actualiza los criterios de provisión para una modalidad de crédito, el área de cartera debe ajustar sus reportes y verificar que las obligaciones se clasifiquen según los nuevos parámetros establecidos.
 
             
             //-3ra pestaña
             .row(titulo="Certificación de tasas")
-              p Certificación de tasas: certifica trimestralmente la tasa de usura y el interés bancario corriente, valores que el gestor debe conocer para verificar que los intereses de mora cobrados a los deudores se encuentran dentro de los límites legales vigentes en cada período.
+              p Certifica trimestralmente la tasa de usura y el interés bancario corriente, valores que el gestor debe conocer para verificar que los intereses de mora cobrados a los deudores se encuentran dentro de los límites legales vigentes en cada período.
               p #[b Ejemplo:] antes de liquidar intereses de mora sobre una obligación vencida, el gestor consulta la tasa vigente certificada por la SFC para confirmar que el valor cobrado no supere el límite legal permitido.
 
     
             //-4ra pestaña
             .row(titulo="Atención de consumidores")
-              p Atención de consumidores: recibe quejas de usuarios del sistema financiero que no han sido resueltas satisfactoriamente por la entidad ni por el defensor del consumidor financiero. Las quejas escaladas a la SFC pueden derivar en investigaciones y sanciones si se identifican prácticas indebidas en la cobranza. 
+              p Recibe quejas de usuarios del sistema financiero que no han sido resueltas satisfactoriamente por la entidad ni por el defensor del consumidor financiero. Las quejas escaladas a la SFC pueden derivar en investigaciones y sanciones si se identifican prácticas indebidas en la cobranza. 
               p #[b Ejemplo:] un deudor presenta una queja porque recibió llamadas de cobranza fuera del horario permitido. Si la entidad no resuelve adecuadamente la reclamación, el caso puede escalarse a la SFC para su revisión.
 
 
             //-4ra pestaña
             .row(titulo="Publicación de estadísticas")
-              p Publicación de estadísticas: publica mensualmente indicadores de calidad de cartera, provisiones y rentabilidad del sector, que permiten al gestor comparar los indicadores de su portafolio con el promedio del mercado y fundamentar sus análisis con información sectorial objetiva. 
+              p Publica mensualmente indicadores de calidad de cartera, provisiones y rentabilidad del sector, que permiten al gestor comparar los indicadores de su portafolio con el promedio del mercado y fundamentar sus análisis con información sectorial objetiva. 
               p #[b Ejemplo:] el gestor revisa los indicadores publicados por la SFC y observa que el índice de cartera vencida de su entidad supera el promedio del sector. Con esta información, propone reforzar el seguimiento preventivo y priorizar los créditos con mayor riesgo de deterioro.
 
 

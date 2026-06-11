@@ -127,15 +127,15 @@
     
             //-2da pestaña  
             .row(titulo="Control interno")
-              p Control interno: los registros contables permiten identificar desviaciones entre los saldos esperados y los saldos reales, detectar errores en la aplicación de pagos y verificar que las provisiones se han constituido conforme a la normativa vigente.
+              p lLs registros contables permiten identificar desviaciones entre los saldos esperados y los saldos reales, detectar errores en la aplicación de pagos y verificar que las provisiones se han constituido conforme a la normativa vigente.
             
             //-3ra pestaña
             .row(titulo="Reporte a la Superintendencia Financiera")
-              p Reporte a la Superintendencia Financiera: la información contable de la cartera se transmite periódicamente a través de los sistemas de reporte del regulador, quien la utiliza para evaluar la calidad de la gestión de cada entidad y comparar sus indicadores con los del sector.
+              p La información contable de la cartera se transmite periódicamente a través de los sistemas de reporte del regulador, quien la utiliza para evaluar la calidad de la gestión de cada entidad y comparar sus indicadores con los del sector.
     
             //-4ra pestaña
             .row(titulo="Soporte para la toma de decisiones")
-              p Soporte para la toma de decisiones: los informes contables de cartera le entregan a la alta dirección y a los gestores información objetiva sobre el comportamiento del portafolio, que respalda las decisiones de priorización, asignación de recursos y ajuste de estrategias de recuperación. 
+              p Los informes contables de cartera le entregan a la alta dirección y a los gestores información objetiva sobre el comportamiento del portafolio, que respalda las decisiones de priorización, asignación de recursos y ajuste de estrategias de recuperación. 
 
     p.mt-4 Estos cuatro propósitos conforman un sistema integrado, la contabilidad no cumple ninguno de ellos de manera aislada, sino que los realiza simultáneamente a través del registro continuo y sistemático de cada transacción que afecta la cartera de créditos.
 
@@ -183,19 +183,19 @@
     
           .row(numero="2" titulo="Principio de prudencia")
             .col-md-12.mb-4.mb-md-0
-              p Principio de prudencia: exige reconocer las pérdidas potenciales en el momento en que se identifican, sin esperar a que se materialicen, y diferir el reconocimiento de las ganancias hasta que se confirmen. Para la gestión de cartera, este principio fundamenta todo el sistema de provisiones: la entidad debe reservar recursos para cubrir las pérdidas esperadas de sus obligaciones deterioradas antes de que esas pérdidas se produzcan.
+              p Exige reconocer las pérdidas potenciales en el momento en que se identifican, sin esperar a que se materialicen, y diferir el reconocimiento de las ganancias hasta que se confirmen. Para la gestión de cartera, este principio fundamenta todo el sistema de provisiones: la entidad debe reservar recursos para cubrir las pérdidas esperadas de sus obligaciones deterioradas antes de que esas pérdidas se produzcan.
     
           .row(numero="3" titulo="Principio de uniformidad")
             .col-md-12.mb-4.mb-md-0
-              p Principio de uniformidad: exige que los criterios contables aplicados en un período se mantengan en los períodos siguientes, de manera que los estados financieros sean comparables a lo largo del tiempo. Para la cartera, esto significa que los criterios de clasificación de riesgo y los porcentajes de provisión deben aplicarse de manera consistente.
+              p Exige que los criterios contables aplicados en un período se mantengan en los períodos siguientes, de manera que los estados financieros sean comparables a lo largo del tiempo. Para la cartera, esto significa que los criterios de clasificación de riesgo y los porcentajes de provisión deben aplicarse de manera consistente.
 
           .row(numero="4" titulo="Principio de uniformidad")
             .col-md-12.mb-4.mb-md-0
-              p Principio de revelación suficiente: obliga a las entidades a presentar en sus estados financieros y en las notas que los acompañan toda la información necesaria para que los usuarios puedan formarse un juicio correcto sobre la situación financiera. En la gestión de cartera, este principio se traduce en la obligación de revelar los saldos vencidos, los niveles de provisión y los indicadores de calidad del portafolio.
+              p Obliga a las entidades a presentar en sus estados financieros y en las notas que los acompañan toda la información necesaria para que los usuarios puedan formarse un juicio correcto sobre la situación financiera. En la gestión de cartera, este principio se traduce en la obligación de revelar los saldos vencidos, los niveles de provisión y los indicadores de calidad del portafolio.
 
           .row(numero="5" titulo="Principio de uniformidad")
             .col-md-12.mb-4.mb-md-0
-              p Principio de continuidad: asume que la entidad continuará operando en el futuro previsible, lo que justifica valorar los activos a su valor en libros y no a su valor de liquidación. Para la cartera, este principio sustenta la lógica de la reestructuración: si la entidad y el deudor pueden continuar su relación, es preferible ajustar las condiciones del crédito a proceder a la liquidación inmediata de la garantía. 
+              p Asume que la entidad continuará operando en el futuro previsible, lo que justifica valorar los activos a su valor en libros y no a su valor de liquidación. Para la cartera, este principio sustenta la lógica de la reestructuración: si la entidad y el deudor pueden continuar su relación, es preferible ajustar las condiciones del crédito a proceder a la liquidación inmediata de la garantía. 
       
 
     .row.align-items-center.mt-4.justify-content-center(data-aos="fade-down")
@@ -247,19 +247,19 @@
     
             //-2da pestaña  
             .row(titulo="Estado de resultados (estado de pérdidas y ganancias)")
-              p Estado de resultados (estado de pérdidas y ganancias): presenta los ingresos, los gastos y la utilidad o pérdida del período. Revela el ingreso por intereses generado por la cartera, el gasto por provisiones reconocido durante el período y las recuperaciones de cartera castigada, que mejoran las utilidades cuando se producen.
+              p Presenta los ingresos, los gastos y la utilidad o pérdida del período. Revela el ingreso por intereses generado por la cartera, el gasto por provisiones reconocido durante el período y las recuperaciones de cartera castigada, que mejoran las utilidades cuando se producen.
               p #[b Ejemplo:] si el gasto por provisiones de un período aumenta en $500 millones respecto del período anterior, el gestor puede relacionar ese incremento con el deterioro de la cartera bajo su administración y comprender su impacto directo sobre las utilidades de la entidad.
 
             
             //-3ra pestaña
             .row(titulo="Estado de cambios en el patrimonio")
-              p Estado de cambios en el patrimonio: muestra las variaciones en el patrimonio durante el período por utilidades, pérdidas, aportes o distribuciones. Para la gestión de cartera, permite evaluar el impacto acumulado del deterioro del portafolio sobre la base patrimonial de la entidad, que es la que garantiza su solvencia frente a los depositantes.
+              p Muestra las variaciones en el patrimonio durante el período por utilidades, pérdidas, aportes o distribuciones. Para la gestión de cartera, permite evaluar el impacto acumulado del deterioro del portafolio sobre la base patrimonial de la entidad, que es la que garantiza su solvencia frente a los depositantes.
               p #[b Ejemplo:] si la entidad registra pérdidas por el deterioro de la cartera durante el período, el patrimonio puede disminuir. Esta información permite al gestor comprender cómo una baja recuperación afecta la solidez financiera de la institución.
 
     
             //-4ra pestaña
             .row(titulo="Estado de flujos de efectivo")
-              p Estado de flujos de efectivo: registra las entradas y salidas de efectivo clasificadas por actividades operativas, de inversión y de financiación. Muestra el recaudo efectivo de capital e intereses de cartera y los desembolsos de nuevos créditos durante el período, lo que refleja con precisión la eficiencia real del proceso de recuperación.
+              p Registra las entradas y salidas de efectivo clasificadas por actividades operativas, de inversión y de financiación. Muestra el recaudo efectivo de capital e intereses de cartera y los desembolsos de nuevos créditos durante el período, lo que refleja con precisión la eficiencia real del proceso de recuperación.
               p #[b Ejemplo:] si durante el mes se recuperan $300.000.000 en capital e intereses, el estado de flujos de efectivo evidencia la entrada real de dinero. Este dato permite evaluar si la gestión de cobranza está generando liquidez para la entidad. 
 
 
@@ -277,6 +277,8 @@
           
           .col
             p La comprensión de los cuatro estados financieros le permite al gestor de cartera contextualizar sus resultados dentro del panorama financiero global de la entidad y comunicarlos con precisión ante la dirección. Sin ese contexto, la información de gestión pierde parte de su valor como herramienta para la toma de decisiones.
+
+    p.mt-4 La cartera ocupa una posición central en el balance general, pero su valor real depende del comportamiento de los deudores. Cuando ese comportamiento se deteriora y las obligaciones entran en mora, los efectos se trasladan al estado de resultados, los ingresos disminuyen y los gastos aumentan de manera simultánea, con un impacto desproporcionado sobre la rentabilidad de la entidad.
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido
@@ -298,7 +300,7 @@
                   p Asimismo, la mora afecta el estado de resultados de una entidad financiera por dos vías simultáneas que se refuerzan mutuamente: por una parte, reduce los ingresos que la entidad puede reconocer contablemente; por otra, obliga a incrementar los gastos por provisiones. Esta doble incidencia explica por qué el deterioro de la cartera tiene un impacto desproporcionado sobre las utilidades de la institución.
 
 
-    p.mt-4 Para comprender esta dinámica, es necesario analizar cómo la mora afecta cada una de las vías de impacto sobre el estado de resultados:
+    p.mt-4 Los dos mecanismos mediante los cuales la mora deteriora el estado de resultados de una entidad financiera son los siguientes:
 
     .row.justify-content-center
       .col-lg-10

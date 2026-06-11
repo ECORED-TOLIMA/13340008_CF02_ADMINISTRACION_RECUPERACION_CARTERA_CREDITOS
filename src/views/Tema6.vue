@@ -56,7 +56,7 @@
             p.mb-0 #[b Decisión esperada:] orienta la acción técnica que debe aplicarse conforme a la normativa vigente.
 
 
-    p.mt-4 Decisión esperada: orienta la acción técnica que debe aplicarse conforme a la normativa vigente.
+    p.mt-4 Estos aspectos ayudan a comprender que los casos prácticos no son ejercicios aislados, sino situaciones de análisis que permiten aplicar los contenidos estudiados en condiciones similares a las del sector financiero colombiano.
 
     separador
     #t_6_1.titulo-segundo.color-acento-contenido
@@ -87,32 +87,32 @@
     
           .row(numero="2" titulo="Fundamento técnico de la reestructuración")
             .col-md-12.mb-4.mb-md-0
-              p Fundamento técnico de la reestructuración: la reestructuración de un crédito debe basarse en la evaluación actualizada de la capacidad de pago del deudor y en el análisis de la viabilidad de las nuevas condiciones. Sin este fundamento, la reestructuración solo pospone el problema.
+              p La reestructuración de un crédito debe basarse en la evaluación actualizada de la capacidad de pago del deudor y en el análisis de la viabilidad de las nuevas condiciones. Sin este fundamento, la reestructuración solo pospone el problema.
     
           .row(numero="3" titulo="Documentación como evidencia de cumplimiento")
             .col-md-12.mb-4.mb-md-0
-              p Documentación como evidencia de cumplimiento: en todos los procesos con implicaciones normativas, provisiones, reestructuración, verificación del SARC, atención de quejas, la documentación es la evidencia que respalda las decisiones ante el regulador, la auditoría interna y los consumidores financieros.
+              p En todos los procesos con implicaciones normativas, provisiones, reestructuración, verificación del SARC, atención de quejas, la documentación es la evidencia que respalda las decisiones ante el regulador, la auditoría interna y los consumidores financieros.
 
           .row(numero="4" titulo="Autoevaluación proactiva del SARC")
             .col-md-12.mb-4.mb-md-0
-              p Autoevaluación proactiva del SARC: identificar y corregir deficiencias antes de una visita de inspección demuestra madurez en la gestión de riesgo crediticio. Una entidad que actúa reactivamente frente al regulador presenta mayor exposición a sanciones.
+              p Identificar y corregir deficiencias antes de una visita de inspección demuestra madurez en la gestión de riesgo crediticio. Una entidad que actúa reactivamente frente al regulador presenta mayor exposición a sanciones.
     
           .row(numero="5" titulo="Resolución efectiva de quejas")
             .col-md-12.mb-4.mb-md-0
-              p Resolución efectiva de quejas: atender correctamente una queja requiere verificar los hechos con base en los registros del sistema, calcular correctamente los valores adeudados y responder dentro de los plazos establecidos por la normativa. Una queja bien resuelta protege a la entidad de sanciones regulatorias.
+              p Atender correctamente una queja requiere verificar los hechos con base en los registros del sistema, calcular correctamente los valores adeudados y responder dentro de los plazos establecidos por la normativa. Una queja bien resuelta protege a la entidad de sanciones regulatorias.
     
           .row(numero="6" titulo="Consistencia entre registros y estados financieros")
             .col-md-12.mb-4.mb-md-0
-              p Consistencia entre registros y estados financieros: los datos que el gestor registra en el sistema de cartera son los que alimentan los estados financieros y los reportes al regulador. Un error en el registro genera inconsistencias que pueden derivar en estados financieros incorrectos y reportes inválidos.
+              p Los datos que el gestor registra en el sistema de cartera son los que alimentan los estados financieros y los reportes al regulador. Un error en el registro genera inconsistencias que pueden derivar en estados financieros incorrectos y reportes inválidos.
 
           .row(numero="7" titulo="Criterio diferenciado por tipo de obligación")
             .col-md-12.mb-4.mb-md-0
-              p Criterio diferenciado por tipo de obligación: las decisiones de gestión para reestructurar, provisionar, reportar o atender una queja, tienen implicaciones distintas según el tipo de crédito, la categoría de riesgo y el perfil del deudor. El gestor que conoce estas diferencias aplica criterios más precisos.
+              p Las decisiones de gestión para reestructurar, provisionar, reportar o atender una queja, tienen implicaciones distintas según el tipo de crédito, la categoría de riesgo y el perfil del deudor. El gestor que conoce estas diferencias aplica criterios más precisos.
 
     
           .row(numero="8" titulo="Protección del consumidor como dimensión técnica")
             .col-md-12.mb-4.mb-md-0
-              p Protección del consumidor como dimensión técnica: los derechos del consumidor financiero no son solo una obligación ética, tienen consecuencias jurídicas y regulatorias concretas. Verificar que los intereses cobrados son correctos, que los pagos se aplican bien y que las quejas se atienden en plazo es parte de la gestión técnica de la cartera.
+              p Los derechos del consumidor financiero no son solo una obligación ética, tienen consecuencias jurídicas y regulatorias concretas. Verificar que los intereses cobrados son correctos, que los pagos se aplican bien y que las quejas se atienden en plazo es parte de la gestión técnica de la cartera.
 
         .row.align-items-center.justify-content-center
           .col-lg-12

@@ -82,6 +82,8 @@
 
     p.mt-4 Para el gestor de cartera, comprender el plan de pago de cada obligación es fundamental, porque facilita el análisis técnico del crédito y la toma de decisiones en el proceso de recuperación. Este conocimiento permite diferenciar el abono a capital del pago de intereses, revisar si los valores cancelados corresponden a lo pactado y sustentar alternativas de normalización, refinanciación o reestructuración.
 
+    p.mt-4 El plan de pago no solo organiza fechas y valores; también orienta acciones concretas de seguimiento, control y recuperación. A continuación, se presentan las principales razones por las cuales este instrumento resulta necesario en la gestión de cartera:
+
     .row.justify-content-center.mt-4
       .col-lg-3.mb-4.mb-lg-0
         //-Tarjeta 1
@@ -162,15 +164,15 @@
     
           .row(numero="2" titulo="Cuota variable con capital fijo")
             .col-md-12.mb-4.mb-md-0
-              p Cuota variable con capital fijo: el abono a capital es constante en cada período, pero los intereses disminuyen a medida que se amortiza el saldo. Esto produce cuotas más altas al inicio y más bajas hacia el final del plazo. Se usa frecuentemente en créditos comerciales y permite una amortización más rápida del capital.
+              p El abono a capital es constante en cada período, pero los intereses disminuyen a medida que se amortiza el saldo. Esto produce cuotas más altas al inicio y más bajas hacia el final del plazo. Se usa frecuentemente en créditos comerciales y permite una amortización más rápida del capital.
     
           .row(numero="3" titulo="<em>Bullet</em> (pago único al vencimiento)")
             .col-md-12.mb-4.mb-md-0
-              p Bullet (pago único al vencimiento): el capital se paga íntegramente al vencimiento del crédito. Durante la vigencia, el deudor solo cancela los intereses periódicamente. Se usa principalmente en créditos comerciales de corto plazo y exige un seguimiento especial, porque el riesgo de incumplimiento se concentra en el vencimiento final.
+              p El capital se paga íntegramente al vencimiento del crédito. Durante la vigencia, el deudor solo cancela los intereses periódicamente. Se usa principalmente en créditos comerciales de corto plazo y exige un seguimiento especial, porque el riesgo de incumplimiento se concentra en el vencimiento final.
 
           .row(numero="4" titulo="Amortización irregular o flexible")
             .col-md-12.mb-4.mb-md-0
-              p Amortización irregular o flexible: las cuotas de capital e intereses se acuerdan de manera personalizada según el flujo de caja esperado del deudor. Se usa en microcrédito y en créditos agropecuarios con flujos estacionales. Requiere un seguimiento más detallado del plan de pagos, porque no existe una cuota estándar de referencia. 
+              p Las cuotas de capital e intereses se acuerdan de manera personalizada según el flujo de caja esperado del deudor. Se usa en microcrédito y en créditos agropecuarios con flujos estacionales. Requiere un seguimiento más detallado del plan de pagos, porque no existe una cuota estándar de referencia. 
 
     
       .col-lg-4.d-none.d-lg-block
@@ -231,19 +233,19 @@
     
             //-2da pestaña  
             .row(titulo="Créditos comerciales")
-              p Créditos comerciales: destinados a financiar actividades productivas de personas naturales o jurídicas con fines empresariales. Incluyen operaciones de mayor monto, plazos más amplios y, en muchos casos, garantías reales como hipotecas o prendas. Su gestión requiere un análisis más detallado de la situación financiera del deudor y una mayor capacidad de negociación de reestructuraciones.
+              p Destinados a financiar actividades productivas de personas naturales o jurídicas con fines empresariales. Incluyen operaciones de mayor monto, plazos más amplios y, en muchos casos, garantías reales como hipotecas o prendas. Su gestión requiere un análisis más detallado de la situación financiera del deudor y una mayor capacidad de negociación de reestructuraciones.
               p #[b Ejemplo:] una pequeña empresa solicita un crédito por $80.000.000 para comprar maquinaria y ampliar su producción. La entidad analiza sus ingresos, flujo de caja y garantías. Si el pago se retrasa, el gestor revisa la situación financiera del negocio y propone una reestructuración viable.
 
             
             //-3ra pestaña
             .row(titulo="Créditos hipotecarios")
-              p Créditos hipotecarios: financian la adquisición o construcción de vivienda y están respaldados con garantía hipotecaria sobre el inmueble. Su regulación específica incluye disposiciones de la Ley 546 de 1999 sobre financiación de vivienda. Son los de mayor plazo (hasta 30 años) y los que generan mayor impacto sobre las familias cuando la gestión de cobranza no es adecuada.
+              p Financian la adquisición o construcción de vivienda y están respaldados con garantía hipotecaria sobre el inmueble. Su regulación específica incluye disposiciones de la Ley 546 de 1999 sobre financiación de vivienda. Son los de mayor plazo (hasta 30 años) y los que generan mayor impacto sobre las familias cuando la gestión de cobranza no es adecuada.
               p #[b Ejemplo:] una familia adquiere un crédito de vivienda a largo plazo para comprar su casa. Como la obligación está respaldada con hipoteca, la entidad realiza seguimiento preventivo cuando se presentan retrasos, procurando acuerdos de pago que eviten el deterioro de la cartera y protejan el patrimonio familiar.
 
     
             //-4ra pestaña
             .row(titulo="Microcréditos")
-              p Microcréditos: dirigidos a microempresarios y trabajadores independientes de bajos ingresos, con montos reducidos y condiciones adaptadas a flujos de caja irregulares. Cuentan con una regulación diferencial en materia de tasas, que reconoce los mayores costos de operación de este segmento. Su gestión de cobranza exige un enfoque más personalizado y frecuente, dado el perfil de los deudores y la informalidad de sus ingresos.
+              p Dirigidos a microempresarios y trabajadores independientes de bajos ingresos, con montos reducidos y condiciones adaptadas a flujos de caja irregulares. Cuentan con una regulación diferencial en materia de tasas, que reconoce los mayores costos de operación de este segmento. Su gestión de cobranza exige un enfoque más personalizado y frecuente, dado el perfil de los deudores y la informalidad de sus ingresos.
               p #[b Ejemplo:] una vendedora independiente solicita $3.000.000 para comprar insumos y fortalecer su negocio. Debido a que sus ingresos son variables, la entidad realiza acompañamiento cercano, verifica su capacidad de pago y propone cuotas acordes con el flujo de dinero generado por la actividad económica. 
 
 
@@ -398,13 +400,13 @@
                           )
                       
                       .tarjeta.bg-10.p-3.d-none.d-md-block(x="8%" y="60%" numero="+")
-                        p.d-none.d-md-block corresponde al tiempo otorgado para pagar la obligación. Puede ampliarse para reducir el valor de la cuota, siempre que el nuevo periodo sea viable para la entidad y para el deudor.
+                        p.d-none.d-md-block Corresponde al tiempo otorgado para pagar la obligación. Puede ampliarse para reducir el valor de la cuota, siempre que el nuevo periodo sea viable para la entidad y para el deudor.
                       .tarjeta.bg-10.p-3.d-none.d-md-block(x="27%" y="26%" numero="+")
-                        p.d-none.d-md-block es el porcentaje de interés aplicado al crédito. En una reestructuración puede revisarse según las políticas institucionales, los límites legales y el nivel de riesgo del deudor.
+                        p.d-none.d-md-block Es el porcentaje de interés aplicado al crédito. En una reestructuración puede revisarse según las políticas institucionales, los límites legales y el nivel de riesgo del deudor.
                       .tarjeta.bg-10.p-3.d-none.d-md-block(x="71%" y="26%" numero="+")
-                        p.d-none.d-md-block es el valor periódico que debe pagar el deudor. Debe ajustarse a su capacidad real de pago para evitar nuevos incumplimientos.
+                        p.d-none.d-md-block Es el valor periódico que debe pagar el deudor. Debe ajustarse a su capacidad real de pago para evitar nuevos incumplimientos.
                       .tarjeta.bg-10.p-3.d-none.d-md-block(x="92%" y="60%" numero="+")
-                        p.d-none.d-md-block es el respaldo que protege la obligación. Puede mantenerse, actualizarse o reforzarse cuando el nivel de riesgo del crédito lo exige.
+                        p.d-none.d-md-block Es el respaldo que protege la obligación. Puede mantenerse, actualizarse o reforzarse cuando el nivel de riesgo del crédito lo exige.
 
 
                   figure.d-block.d-md-none
