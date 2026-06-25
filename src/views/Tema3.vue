@@ -467,7 +467,7 @@
 
 
 
-    p.mt-4 El marco legal colombiano protege al consumidor financiero durante el proceso de cobranza no como un obstáculo a la recuperación, sino como una garantía de que esta se realice con legalidad y respeto. Una gestión de cartera que cumple estas normas no solo protege al deudor: también protege a la entidad de reclamaciones, sanciones y daños reputacionales.
+    p.mt-4 El marco legal colombiano protege al consumidor financiero durante el proceso de cobranza, no como un obstáculo a la recuperación, sino como una garantía de que esta se realice con legalidad y respeto. Una gestión de cartera que cumple estas normas no solo protege al deudor: también protege a la entidad de reclamaciones, sanciones y daños reputacionales.
 
     p La normativa que regula la actividad crediticia en Colombia cobra sentido pleno cuando se aplica a situaciones reales de gestión. Para consolidar los conceptos normativos desarrollados en este bloque y profundizar en su impacto en la práctica cotidiana del área de cartera, se propone el siguiente recurso de audio.
 

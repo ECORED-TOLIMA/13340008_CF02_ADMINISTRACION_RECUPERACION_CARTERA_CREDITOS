@@ -153,7 +153,7 @@
 
         p.text-center #[b Incremento de la tasa de intervención]
 
-        p Cuando el Banco eleva su tasa para controlar la inflación, el costo del crédito sube. Esto puede dificultar el cumplimiento de los deudores que tienen créditos a tasa variable, incrementar la demanda de reestructuraciones y aumentar la presión sobre la cartera de las entidades.
+        p Cuando el banco eleva su tasa para controlar la inflación, el costo del crédito sube. Esto puede dificultar el cumplimiento de los deudores que tienen créditos a tasa variable, incrementar la demanda de reestructuraciones y aumentar la presión sobre la cartera de las entidades.
 
       //Tarjeta 2
       .col-md.tarjeta.bg-19.p-4.p-lg-5
@@ -163,7 +163,7 @@
               img(src='@/assets/curso/tema4/8.svg', style='width: 150px').m-auto 
         p.text-center #[b Reducción de la tasa de intervención]
 
-        p Cuando el Banco baja su tasa para estimular la economía, el costo del crédito disminuye. Esto facilita el cumplimiento de los deudores con tasas variables y puede generar un ambiente más favorable para la recuperación de obligaciones reestructuradas.
+        p Cuando el banco baja su tasa para estimular la economía, el costo del crédito disminuye. Esto facilita el cumplimiento de los deudores con tasas variables y puede generar un ambiente más favorable para la recuperación de obligaciones reestructuradas.
 
       //Tarjeta 4
       .col-md.tarjeta.bg-7.p-4.p-lg-5
@@ -174,7 +174,7 @@
 
         p.text-center #[b Informes de política monetaria]
 
-        p El Banco publica trimestralmente su Informe de Política Monetaria, que incluye proyecciones sobre inflación, crecimiento económico y estabilidad financiera. Esta información es útil para el gestor al proyectar el comportamiento de la cartera en el mediano plazo.
+        p El banco publica trimestralmente su Informe de Política Monetaria, que incluye proyecciones sobre inflación, crecimiento económico y estabilidad financiera. Esta información es útil para el gestor al proyectar el comportamiento de la cartera en el mediano plazo.
 
 
     p.mt-4 El conocimiento del papel del Banco de la República en el sistema financiero colombiano le permite al gestor de cartera anticipar el impacto macroeconómico sobre el comportamiento de sus deudores y comprender los contextos en los que se producen los incrementos o disminuciones en los niveles de mora de su portafolio.

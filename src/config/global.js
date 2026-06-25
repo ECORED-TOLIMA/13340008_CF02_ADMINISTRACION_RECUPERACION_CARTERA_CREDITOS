@@ -257,44 +257,44 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Acuerdo de pago',
+      termino: 'Amortización',
       significado:
-        'Convenio formal entre la entidad financiera y el deudor en el que se fijan nuevas condiciones para saldar una obligación vencida, tales como plazos, cuotas y posibles descuentos por pronto pago.',
+        'Proceso mediante el cual se reduce gradualmente el saldo de una deuda, a través de pagos periódicos que incluyen capital e intereses.',
     },
     {
-      termino: 'Cartera de créditos',
+      termino: 'Circular Básica Contable y Financiera (CBCF)',
       significado:
-        'Conjunto de préstamos otorgados por una entidad financiera a sus clientes, que constituye el principal activo generador de ingresos y cuya calidad refleja la solidez patrimonial de la institución.',
+        'Instrumento técnico de la Superintendencia Financiera de Colombia que establece lineamientos contables, financieros y de riesgo para las entidades vigiladas.',
     },
     {
-      termino: 'Cartera vencida',
+      termino: 'Defensoría del Consumidor Financiero',
       significado:
-        'Porción de la cartera que registra obligaciones con más de treinta días de incumplimiento y cuyo comportamiento determina el nivel de provisiones que la entidad debe constituir.',
+        'Instancia independiente que atiende quejas y reclamos de los consumidores financieros frente a las entidades vigiladas.',
     },
     {
-      termino: 'Castigo de cartera',
+      termino: 'Estatuto Orgánico del Sistema Financiero (EOSF)',
       significado:
-        'Decisión contable por la cual una entidad retira de sus activos una obligación calificada como irrecuperable, sin que ello implique la condonación de la deuda.',
+        'Norma que organiza la estructura, funcionamiento y facultades de las entidades del sistema financiero colombiano.',
     },
     {
-      termino: 'Cobranza',
+      termino: 'FOGAFIN',
       significado:
-        'Proceso de gestión mediante el cual una entidad financiera busca el recaudo de créditos en mora, aplicando estrategias diferenciadas según la etapa de incumplimiento: preventiva, extrajudicial o jurídica.',
+        'Fondo de Garantías de Instituciones Financieras, entidad que protege a los ahorradores y contribuye a la estabilidad del sistema financiero colombiano.',
     },
     {
-      termino: 'Índice de cartera vencida',
+      termino: 'Plan de pago',
       significado:
-        'Indicador que expresa el porcentaje del saldo total de cartera con mora superior a treinta días y permite comparar la calidad del portafolio frente al promedio del sector.',
+        'Cronograma que establece fechas, valores y condiciones para el cumplimiento de una obligación crediticia.',
     },
     {
-      termino: 'Mora',
+      termino: 'Provisión general',
       significado:
-        'Situación de incumplimiento en el pago de una obligación crediticia en la fecha pactada, que genera intereses moratorios para el deudor y obliga a la entidad a constituir provisiones.',
+        'Reserva contable constituida sobre la cartera total para cubrir posibles pérdidas no identificadas individualmente.',
     },
     {
-      termino: 'Provisión',
+      termino: 'Provisión individual',
       significado:
-        'Reserva contable constituida por la entidad financiera para cubrir las pérdidas esperadas por el incumplimiento de sus deudores, conforme a las normas de la Superintendencia Financiera de Colombia.',
+        'Reserva contable aplicada a una obligación específica, de acuerdo con su categoría de riesgo y probabilidad de pérdida.',
     },
     {
       termino: 'Reestructuración',
@@ -302,50 +302,85 @@ export default {
         'Modificación de las condiciones originales de un crédito en aspectos como plazo, cuotas o garantías, con el fin de adecuarlo a la capacidad de pago actual del deudor.',
     },
     {
-      termino: 'Superintendencia Financiera de Colombia',
+      termino: 'Sistema de Administración del Riesgo Crediticio (SARC)',
       significado:
-        'Entidad gubernamental que supervisa, inspecciona y controla las instituciones del sector financiero, asegurador y bursátil del país, y define las normas de gestión del riesgo crediticio.',
+        'Conjunto de políticas, procesos y controles que permite identificar, medir, controlar y monitorear el riesgo de crédito.',
+    },
+    {
+      termino: 'Tasa de usura',
+      significado:
+        'Límite máximo legal permitido para el cobro de intereses en operaciones de crédito en Colombia.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Banco de la República de Colombia. (2024). <em>Resolución Externa DCIN-83: régimen cambiario de operaciones de cambio</em>. Banco de la República.',
+        'Asobancaria. (2024). <em>Informe de tipificación del sistema financiero colombiano</em>. Asobancaria.',
       link: '',
     },
     {
       referencia:
-        'Cámara de Comercio Internacional [CCI]. (2020). <em>Incoterms® 2020: reglas de la CCI para el uso de términos comerciales nacionales e internacionales</em>. ICC Publishing.',
+        'Banco de la República de Colombia. (2024). <em>Informe de política monetaria</em>. Banco de la República de Colombia.',
       link: '',
     },
     {
       referencia:
-        'Dirección de Impuestos y Aduanas Nacionales [DIAN]. (2019). <em>Decreto 1165 de 2019: régimen de aduanas de Colombia</em>. Ministerio de Hacienda y Crédito Público.',
+        'Congreso de Colombia. (1999). <em>Ley 510 de 1999: por la cual se dictan disposiciones en relación con el sistema financiero y asegurador</em>. Diario Oficial No. 43.654.',
       link: '',
     },
     {
       referencia:
-        '<em>Food and Drug Administration</em> [FDA]. (2024). <em>Requisitos de etiquetado para alimentos importados a Estados Unidos</em>. U.S. Department of Health and Human Services. <u></u>',
-      link: 'https://www.fda.gov',
-    },
-    {
-      referencia:
-        'Instituto Colombiano Agropecuario [ICA]. (2024). <em>Certificados sanitarios para la exportación de productos agropecuarios</em>. Ministerio de Agricultura y Desarrollo Rural.',
+        'Congreso de Colombia. (1999). <em>Ley 546 de 1999: por la cual se dictan normas en materia de vivienda</em>. Diario Oficial No. 43.827.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo [MinCIT]. (2012). <em>Acuerdo de Promoción Comercial entre la República de Colombia y los Estados Unidos de América: texto oficial en español</em>. MinCIT. <u></u>',
-      link: 'https://www.tlc.gov.co',
-    },
-    {
-      referencia:
-        'Organización Internacional del Trabajo [OIT]. (2012). <em>El Acuerdo de Promoción Comercial Colombia y los Estados Unidos: compromisos laborales y estándares internacionales</em>. OIT.',
+        'Congreso de Colombia. (2003). <em>Ley 795 de 2003: por la cual se ajustan algunas normas del Estatuto Orgánico del Sistema Financiero y se dictan otras disposiciones</em>. Diario Oficial No. 45.064.',
       link: '',
     },
     {
       referencia:
-        'ProColombia. (2024). <em>Guía para exportar a Estados Unidos: requisitos sanitarios, documentales y logísticos</em>. ProColombia.',
+        'Congreso de Colombia. (2009). <em>Ley 1328 de 2009: por la cual se dictan normas en materia financiera, de seguros, del mercado de valores y otras disposiciones</em>. Diario Oficial No. 47.411.',
+      link: '',
+    },
+    {
+      referencia:
+        'Consejo Técnico de la Contaduría Pública. (2022). <em>Marco conceptual para la información financiera: NIIF plenas</em>. CTCP.',
+      link: '',
+    },
+    {
+      referencia:
+        'Fondo de Garantías de Instituciones Financieras. (2024). <em>Informe de gestión anual</em>. FOGAFIN.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gitman, L. J., & Zutter, C. J. (2016). <em>Principios de administración financiera</em> (14.ª ed.). Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (1993). <em>Decreto 663 de 1993: por medio del cual se actualiza el Estatuto Orgánico del Sistema Financiero y se modifica su titulación y numeración</em>. Diario Oficial No. 40.820.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ramírez Padilla, D. N. (2018). <em>Contabilidad administrativa: un enfoque estratégico para competir</em> (10.ª ed.). McGraw-Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje. (2016). <em>Diseño curricular del programa Administración y recuperación de la cartera de créditos</em>. SENA.',
+      link: '',
+    },
+    {
+      referencia:
+        'Superintendencia Financiera de Colombia. (2014). <em>Circular Externa 029 de 2014: instrucciones relativas a las prácticas de cobranza de las entidades vigiladas</em>. SFC.',
+      link: '',
+    },
+    {
+      referencia:
+        'Superintendencia Financiera de Colombia. (2023). <em>Circular Básica Contable y Financiera: Capítulo II, gestión del riesgo crediticio</em>. SFC.',
       link: '',
     },
   ],
@@ -354,15 +389,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Johanna Gómez Pérez',
+          nombre: 'Claudia Johanna Gómez Pérez ',
           cargo:
             'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Diana Rocío Possos Beltrán',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro Agroturístico - Regional Santander',
+          cargo: 'Responsable de línea de producción ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },

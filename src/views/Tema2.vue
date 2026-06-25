@@ -273,14 +273,14 @@
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4 Tasas de interés y límites legales
 
-    p La tasa de interés es el precio del dinero prestado, la remuneración que el deudor paga a la entidad financiera por el uso temporal de los recursos que esta le ha entregado. En el sistema financiero colombiano, las tasas de interés están sujetas a límites legales cuyo incumplimiento constituye el delito de usura, tipificado en el Código Penal colombiano.
+    p La tasa de interés es el precio del dinero prestado, la remuneración que el deudor paga a la entidad financiera por el uso temporal de los recursos que esta le ha entregado. En el sistema financiero colombiano, las tasas de interés están sujetas a límites legales, cuyo incumplimiento constituye el delito de usura, tipificado en el Código Penal colombiano.
 
     .row.align-items-center.mt-4.justify-content-center(data-aos="fade-down")
       .col-lg-3.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema2/20.png', alt='', style="width: 290px").m-auto
       .col-lg-9
-        p Asimismo, para el gestor de cartera el conocimiento de las tasas de interés no es solo un asunto de comprensión técnica, es una obligación normativa. Al gestionar el cobro de una obligación, el gestor debe verificar que los intereses de mora cobrados al deudor se encuentren dentro de los límites legales vigentes, porque el cobro de intereses por encima de la tasa de usura expone a la entidad a sanciones graves y al deudor a derechos de reclamación.
+        p Asimismo, para el gestor de cartera, el conocimiento de las tasas de interés no es solo un asunto de comprensión técnica, es una obligación normativa. Al gestionar el cobro de una obligación, el gestor debe verificar que los intereses de mora cobrados al deudor se encuentren dentro de los límites legales vigentes, porque el cobro de intereses por encima de la tasa de usura expone a la entidad a sanciones graves y al deudor a derechos de reclamación.
 
         p.p-4.bg-16 Además de conocer los tipos de tasas, el gestor de cartera debe interpretar cómo estas afectan el valor final de la obligación y la capacidad de pago del deudor. Una tasa mal aplicada puede generar errores en el cálculo de intereses, aumentar el valor de la mora y afectar la transparencia del proceso de cobranza. Por ello, su revisión debe realizarse con precisión técnica, respeto por los límites legales y coherencia con las condiciones pactadas en el contrato de crédito.
 
@@ -470,25 +470,25 @@
     
           .row(numero="2" titulo="Análisis de viabilidad")
             .col-md-12.mb-4.mb-md-0
-              p Análisis de viabilidad: permite determinar si la dificultad de pago del deudor es temporal y superable o si, por el contrario, sus condiciones financieras no le permitirán cumplir ninguna alternativa razonable de pago. Solo en el primer caso la reestructuración es una solución viable.
+              p Permite determinar si la dificultad de pago del deudor es temporal y superable o si, por el contrario, sus condiciones financieras no le permitirán cumplir ninguna alternativa razonable de pago. Solo en el primer caso la reestructuración es una solución viable.
               p #[b Ejemplo:] un comerciante presenta mora porque sus ventas disminuyeron durante dos meses por el cierre temporal de su local. Al comprobar que la actividad económica continúa y que los ingresos se están recuperando, la entidad puede proponer cuotas más bajas durante los primeros meses.
 
     
           .row(numero="3" titulo="Diseño de las nuevas condiciones")
             .col-md-12.mb-4.mb-md-0
-              p Diseño de las nuevas condiciones: implica definir los nuevos parámetros del crédito: plazo ampliado, cuota reducida, período de gracia, capitalización de intereses o combinación de estas alternativas, según lo que sea técnicamente viable y esté dentro de las facultades del gestor o del nivel de autorización requerido.
+              p Implica definir los nuevos parámetros del crédito: plazo ampliado, cuota reducida, período de gracia, capitalización de intereses o combinación de estas alternativas, según lo que sea técnicamente viable y esté dentro de las facultades del gestor o del nivel de autorización requerido.
               p #[b Ejemplo:] una entidad amplía el plazo de un crédito comercial de 24 a 36 meses y reduce el valor de la cuota mensual, sin superar los límites de tasa permitidos. Además, solicita actualizar la garantía para cubrir el mayor riesgo de la operación.
 
 
           .row(numero="4" titulo="Registro contable")
             .col-md-12.mb-4.mb-md-0
-              p Registro contable: la reestructuración puede implicar la capitalización de intereses en mora, la reclasificación de la obligación y el ajuste de las provisiones. Estos movimientos deben registrarse correctamente para reflejar la nueva situación contable del crédito reestructurado. 
+              p La reestructuración puede implicar la capitalización de intereses en mora, la reclasificación de la obligación y el ajuste de las provisiones. Estos movimientos deben registrarse correctamente para reflejar la nueva situación contable del crédito reestructurado. 
               p #[b Ejemplo:] después de aprobar la reestructuración, el área contable actualiza la categoría de riesgo del crédito, registra los intereses capitalizados y ajusta la provisión correspondiente, de acuerdo con las políticas internas y la normativa aplicable.
 
 
           .row(numero="5" titulo="Seguimiento posterior")
             .col-md-12.mb-4.mb-md-0
-              p Seguimiento posterior: una vez formalizada la reestructuración, el gestor debe monitorear el cumplimiento de las nuevas condiciones de manera más estricta que en créditos ordinarios, porque el historial de incumplimiento del deudor indica mayor riesgo de recaída. 
+              p Una vez formalizada la reestructuración, el gestor debe monitorear el cumplimiento de las nuevas condiciones de manera más estricta que en créditos ordinarios, porque el historial de incumplimiento del deudor indica mayor riesgo de recaída. 
               p #[b Ejemplo:] durante los seis meses siguientes a la reestructuración, el gestor revisa mensualmente el pago oportuno de la cuota y contacta de manera preventiva al deudor si identifica retrasos, con el fin de evitar un nuevo deterioro de la obligación. 
 
     

@@ -323,7 +323,7 @@
     .titulo-tres.mt-5: h3 Caso 4: atención de una queja ante la Defensoría del Consumidor Financiero
 
 
-    p.mt-4 La señora María Isabel Guerrero interpuso una queja ante la Defensoría del Consumidor Financiero del Banco Regional del Café, alegando que la entidad le cobró intereses de mora por $1.850.000 en su crédito de consumo, cuando según sus cálculos el valor correcto no debería superar los $920.000 Para facilitar el análisis de la queja, en la siguiente tabla se presentan los datos clave del crédito y los valores en discusión.
+    p.mt-4 La señora María Isabel Guerrero interpuso una queja ante la Defensoría del Consumidor Financiero del Banco Regional del Café, alegando que la entidad le cobró intereses de mora por $1.850.000 en su crédito de consumo, cuando según sus cálculos el valor correcto no debería superar los $920.000. Para facilitar el análisis de la queja, en la siguiente tabla se presentan los datos clave del crédito y los valores en discusión.
 
     .row.justify-content-center
       .col-lg-auto

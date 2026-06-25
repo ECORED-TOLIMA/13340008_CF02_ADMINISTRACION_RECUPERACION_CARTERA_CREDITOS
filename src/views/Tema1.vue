@@ -127,7 +127,7 @@
     
             //-2da pestaña  
             .row(titulo="Control interno")
-              p lLs registros contables permiten identificar desviaciones entre los saldos esperados y los saldos reales, detectar errores en la aplicación de pagos y verificar que las provisiones se han constituido conforme a la normativa vigente.
+              p Los registros contables permiten identificar desviaciones entre los saldos esperados y los saldos reales, detectar errores en la aplicación de pagos y verificar que las provisiones se han constituido conforme a la normativa vigente.
             
             //-3ra pestaña
             .row(titulo="Reporte a la Superintendencia Financiera")
@@ -189,11 +189,11 @@
             .col-md-12.mb-4.mb-md-0
               p Exige que los criterios contables aplicados en un período se mantengan en los períodos siguientes, de manera que los estados financieros sean comparables a lo largo del tiempo. Para la cartera, esto significa que los criterios de clasificación de riesgo y los porcentajes de provisión deben aplicarse de manera consistente.
 
-          .row(numero="4" titulo="Principio de uniformidad")
+          .row(numero="4" titulo="Principio de revelación suficiente")
             .col-md-12.mb-4.mb-md-0
               p Obliga a las entidades a presentar en sus estados financieros y en las notas que los acompañan toda la información necesaria para que los usuarios puedan formarse un juicio correcto sobre la situación financiera. En la gestión de cartera, este principio se traduce en la obligación de revelar los saldos vencidos, los niveles de provisión y los indicadores de calidad del portafolio.
 
-          .row(numero="5" titulo="Principio de uniformidad")
+          .row(numero="5" titulo="Principio de continuidad")
             .col-md-12.mb-4.mb-md-0
               p Asume que la entidad continuará operando en el futuro previsible, lo que justifica valorar los activos a su valor en libros y no a su valor de liquidación. Para la cartera, este principio sustenta la lógica de la reestructuración: si la entidad y el deudor pueden continuar su relación, es preferible ajustar las condiciones del crédito a proceder a la liquidación inmediata de la garantía. 
       
