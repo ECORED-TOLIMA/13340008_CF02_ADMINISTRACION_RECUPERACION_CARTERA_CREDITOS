@@ -335,7 +335,6 @@
 
             .tabla-a.color-acento-contenido
               table
-                caption Nota. Elaboración propia con base en la Circular Básica Contable y Financiera, Capítulo II, Superintendencia Financiera de Colombia (2023).
                 thead(style="background-color: #FF984A")
                   tr
                     th Elemento
